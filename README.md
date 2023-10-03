@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-Please run the application via this [link]
+Please run the application via this [link](https://intense-waters-93873-535eb6df9070.herokuapp.com/). 
 Alternatively, hit the 'Install' button to launch the application on desktop. 
 All data are saved in iDB on the browser. 
 ![alt screenshot](./image.jpg)
